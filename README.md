@@ -335,18 +335,6 @@ ENTRYPOINT ["java","-jar","/app.jar"]
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Support
-
-For support and questions:
-
-- Create an issue in the repository
-- Contact the development team
-- Check the [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 **Happy Coding! 🚀**
